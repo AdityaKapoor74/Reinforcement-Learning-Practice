@@ -1,2 +1,4 @@
-# Reinforcement-Learning-Practice
-This repository contains documented code for various environments
+This repository contains well documented code for various environments
+
+## Environments covered:
+- [ ] CartPole
