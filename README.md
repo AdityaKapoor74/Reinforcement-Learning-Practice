@@ -2,5 +2,6 @@
 This repository contains well documented code for various environments
 
 ## Environments covered:
-- [x] CartPole
+- [x] CartPole with DQN
+- [x] Lunar Lander with ActorCritic
 - [ ] Pacman
