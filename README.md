@@ -2,6 +2,7 @@
 This repository contains well documented code for various environments
 
 ## Environments covered:
+- [x] Classical Algorithms
 - [x] CartPole with DQN
 - [x] Lunar Lander with ActorCritic
 - [x] Simple Spread MultiAgent Environment with MADDPG
